@@ -2,6 +2,8 @@
 
 ## syllabus
 
+(syllabus)[syllabus/syllabus.pdf]
+
 ## lectures
 
 ## problem sets
