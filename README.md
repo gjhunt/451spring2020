@@ -2,7 +2,7 @@
 
 ## syllabus
 
-(syllabus)[syllabus/syllabus.pdf]
+[syllabus](syllabus/syllabus.pdf)
 
 ## lectures
 
