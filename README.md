@@ -2,8 +2,8 @@
 
 ## syllabus
 
-[syllabus](syllabus/syllabus.pdf)
-[outline](student_outline.pdf)
+- [syllabus](syllabus/syllabus.pdf)
+- [outline](student_outline.pdf)
 
 ## lectures
 
