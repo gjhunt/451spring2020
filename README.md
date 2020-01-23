@@ -8,14 +8,14 @@
 ## lectures
 
 date | lecture name | notes |
-|---|---|---|
-1-23 | basic set notation | |
+|---|---|---| 
+1-23 | basic set notation | [1](lns/lec1_1.pdf) [2](lns/lec1_2.pdf) |
 
 
 ## problem sets
 date | name | due | assignment |
---- | --- | --- | --- |
-1-23 | PS 1 | 1-30 | |
+|--- | --- | --- | --- |
+1-23 | PS 1 | 1-30 | read: Leemis 1.3 problems: ch1 63, 64, 69, 70, 73|
 
 ## exams
 
