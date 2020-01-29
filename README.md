@@ -10,6 +10,7 @@
 date | lecture name | notes |
 |---|---|---| 
 1-23 | basic set notation | [1](lns/lec1_1.pdf) [2](lns/lec1_2.pdf) |
+1-28 | axiomatic probability | [1](lns/lec2_1.pdf) [2](lns/lec2_2.pdf) |
 
 
 ## problem sets
