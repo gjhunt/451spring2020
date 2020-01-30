@@ -18,6 +18,7 @@ date | lecture name | notes |
 date | name | due | assignment |
 |--- | --- | --- | --- |
 1-23 | PS 1 | 1-30 | read: Leemis 1.3 problems: ch1 63, 64, 69, 70, 73 [pages](scans/leemis_40_42.pdf)|
+1-30 | PS 2 | 2-6 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 2-7, 9-11, 13|
 
 ## exams
 
