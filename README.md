@@ -2,8 +2,8 @@
 
 ## syllabus
 
-[syllabus](syllabus/syllabus.pdf)
-[outline](student_outline.pdf)
+- [syllabus](syllabus/syllabus.pdf)
+- [outline](student_outline.pdf)
 
 ## lectures
 
@@ -18,12 +18,14 @@ date | lecture name | notes |
 
 ## problem sets
 
+see the blackboard site for solutions
+
 date | name | due | assignment |
 |--- | --- | --- | --- |
 1-23 | PS 1 | 1-30 | read: Leemis 1.3 problems: ch1 63, 64, 69, 70, 73 [pages](scans/leemis_40_42.pdf)|
 1-30 | PS 2 | 2-6 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 2-7, 9-11, 13 [pages](scans/leemis_81_82.pdf)|
 2-6 | PS 3 | 2-13 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
-2-13 | PS 4 | 2-20 | read:  Leemis 2.4 - 2.6 problems:  Leemis ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146|
+2-13 | PS 4 | not graded | read:  Leemis 2.4 - 2.6 problems:  Leemis ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146|
 
 
 ## exams
