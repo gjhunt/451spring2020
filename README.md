@@ -15,6 +15,7 @@ date | lecture name | notes |
 2-4 | ordered counting | [1](lns/lec4_1.pdf) [2](lns/lec4_2.pdf) |
 2-6 | unordered counting | [1](lns/lec5_1.pdf) [2](lns/lec5_2.pdf) |
 2-11 | conditional probability | [1](lns/lec6_1.pdf) [2](lns/lec6_2.pdf) |
+2-13 | independence | [1](lns/lec7_1.pdf) [2](lns/lec7_2.pdf) |
 
 ## problem sets
 
