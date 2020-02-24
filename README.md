@@ -16,6 +16,7 @@ date | lecture name | notes |
 2-6 | unordered counting | [1](lns/lec5_1.pdf) [2](lns/lec5_2.pdf) |
 2-11 | conditional probability | [1](lns/lec6_1.pdf) [2](lns/lec6_2.pdf) |
 2-13 | independence | [1](lns/lec7_1.pdf) [2](lns/lec7_2.pdf) |
+2-13 | random variables | [1](lns/lec8_1.pdf) [2](lns/lec8_2.pdf) |
 
 ## problem sets
 
@@ -27,6 +28,7 @@ date | name | due | assignment |
 1-30 | PS 2 | 2-6 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 2-7, 9-11, 13 [pages](scans/leemis_81_82.pdf)|
 2-6 | PS 3 | 2-13 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
 2-13 | PS 4 | not graded | read:  Leemis 2.4 - 2.6 problems:  Leemis ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146|
+2-24 | PS 5 | 3-5 | read:  Leemis 3.1-3.3 problems:  Leemis ch3 problems 4, 14, 18, 19, 24, 25, 28, 34, 36, 49 | 
 
 
 ## exams
