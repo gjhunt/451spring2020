@@ -16,7 +16,8 @@ date | lecture name | notes |
 2-6 | unordered counting | [1](lns/lec5_1.pdf) [2](lns/lec5_2.pdf) |
 2-11 | conditional probability | [1](lns/lec6_1.pdf) [2](lns/lec6_2.pdf) |
 2-13 | independence | [1](lns/lec7_1.pdf) [2](lns/lec7_2.pdf) |
-2-13 | random variables | [1](lns/lec8_1.pdf) [2](lns/lec8_2.pdf) |
+2-18 | random variables | [1](lns/lec8_1.pdf) [2](lns/lec8_2.pdf) |
+2-25 | pmfs and pdfs | [1](lns/lec9_1.pdf) [2](lns/lec9_2.pdf) |
 
 ## problem sets
 
@@ -33,6 +34,6 @@ date | name | due | assignment |
 
 ## exams
 
-- midterm 1: Thurs. Feb 20th, in class
+- midterm 1: Thurs. Feb 20th, in class [exam](mid1/test.pdf) [soln](mid1/soln.pdf)
 - midterm 2: Thurs. Apr 2nd, in class
 - final: Mon. May 4th, 7-10pm
