@@ -34,6 +34,6 @@ date | name | due | assignment |
 
 ## exams
 
-- midterm 1: Thurs. Feb 20th, in class [exam](mid1/test.pdf) [soln](mid1/soln.pdf)
+- midterm 1: Thurs. Feb 20th, in class
 - midterm 2: Thurs. Apr 2nd, in class
 - final: Mon. May 4th, 7-10pm
