@@ -18,6 +18,7 @@ date | lecture name | notes |
 2-13 | independence | [1](lns/lec7_1.pdf) [2](lns/lec7_2.pdf) |
 2-18 | random variables | [1](lns/lec8_1.pdf) [2](lns/lec8_2.pdf) |
 2-25 | pmfs and pdfs | [1](lns/lec9_1.pdf) [2](lns/lec9_2.pdf) |
+2-27 | pdfs and expected value | [1](lns/lec10_1.pdf) [2](lns/lec10_2.pdf) |
 
 ## problem sets
 
