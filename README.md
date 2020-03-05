@@ -20,6 +20,7 @@ date | lecture name | notes |
 2-25 | pmfs and pdfs | [1](lns/lec9_1.pdf) [2](lns/lec9_2.pdf) |
 2-27 | pdfs and expected value | [1](lns/lec10_1.pdf) [2](lns/lec10_2.pdf) |
 3-3 | expected value and variance | [1](lns/lec11_1.pdf) [2](lns/lec11_2.pdf) |
+3-5 | moments and mgfs | [1](lns/lec12_1.pdf) [2](lns/lec12_2.pdf) |
 
 ## problem sets
 
