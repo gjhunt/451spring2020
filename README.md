@@ -19,6 +19,7 @@ date | lecture name | notes |
 2-18 | random variables | [1](lns/lec8_1.pdf) [2](lns/lec8_2.pdf) |
 2-25 | pmfs and pdfs | [1](lns/lec9_1.pdf) [2](lns/lec9_2.pdf) |
 2-27 | pdfs and expected value | [1](lns/lec10_1.pdf) [2](lns/lec10_2.pdf) |
+3-3 | expected value and variance | [1](lns/lec11_1.pdf) [2](lns/lec11_2.pdf) |
 
 ## problem sets
 
@@ -30,8 +31,8 @@ date | name | due | assignment |
 1-30 | PS 2 | 2-6 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 2-7, 9-11, 13 [pages](scans/leemis_81_82.pdf)|
 2-6 | PS 3 | 2-13 | read: Leemis 2.1 and 2.2 problems:  Leemis ch2 problems 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
 2-13 | PS 4 | not graded | read:  Leemis 2.4 - 2.6 problems:  Leemis ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146|
-2-24 | PS 5 | 3-5 | read:  Leemis 3.1-3.3 problems:  Leemis ch3 problems 4, 14, 18, 19, 24, 25, 28, 34, 36, 49 | 
-
+2-24 | PS 5 | 3-5 | read:  Leemis 3.1-3.3 problems:  Leemis ch3 problems 4, 14, 18, 19, 24, 25, 28, 34, 36, 49 |
+3-5 | PS 6 | 3-19 | read:  Leemis 3.4 problems:  Leemis ch3: 54, 67, 71, 74, 78, 81, 105, 117, 133, 135
 
 ## exams
 
