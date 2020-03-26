@@ -23,7 +23,7 @@ date | lecture name | notes | [Dr. Hunt's Lecture Playlist](https://www.youtube.
 3-3 | expected value and variance | [1](lns/lec11_1.pdf) [2](lns/lec11_2.pdf) |||
 3-5 | moments and mgfs | [1](lns/lec12_1.pdf) [2](lns/lec12_2.pdf) |||
 3-24 | common distributions | [1](lns\lec13_1.pdf) | [lecture 13](https://youtu.be/B-vB4VkjzC0)| 4.1, 4.2, 4.7 (uniform), 5.1, 5.2, 5.4
-3-26 | common distributions | [1](lns\lec13_1.pdf) | [lecture 14](https://youtu.be/8AcE3V4B8k8)| 4.5, 5.3, 4.3, 5.5 (beta)
+3-26 | common distributions | [1](lns\lec14_1.pdf) | [lecture 14](https://youtu.be/8AcE3V4B8k8)| 4.5, 5.3, 4.3, 5.5 (beta)
 
 ## problem sets
 
