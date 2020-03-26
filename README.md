@@ -36,8 +36,8 @@ date | name | due | reading| assignment |
 2-6 | PS 3 | 2-13 |  Leemis 2.1 and 2.2 |  Leemis ch2 problems 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
 2-13 | PS 4 | not graded |   Leemis 2.4 - 2.6 |  Leemis ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146|
 2-24 | PS 5 | 3-5 |   Leemis 3.1-3.3 |  Leemis ch3 problems 4, 14, 18, 19, 24, 25, 28, 34, 36, 49 |
-3-5 | PS 6 | 3-19 |   Leemis 3.4 |  Leemis ch3: 54, 67, 71, 74, 78, 81, 105, 117, 133, 135 | 
-3-26 | PS 7 | 4-2 |  Leemis 4.1-4.3,4.5, 5.1-5.4 | Leemis ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69 | 
+3-5 | PS 6 | 3-19 |   Leemis 3.4 |  [Leemis ch3: 54, 67, 71, 74, 78, 81, 105, 117, 133, 135](scans/ps6.pdf) | 
+3-26 | PS 7 | 4-2 |  Leemis 4.1-4.3,4.5, 5.1-5.4 | [Leemis ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69](scans/ps7.pdf) | 
 
 ## exams
 
