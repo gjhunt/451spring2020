@@ -38,6 +38,9 @@ date | lecture name | notes | [Dr. Hunt's Lecture Playlist](https://www.youtube.
 4-7 | bivariate expecation and conditional distributions | [1](lns/lec17_1.pdf) | [lecture 17](https://youtu.be/uMIO_EBC2Ro)| 6.1, 6.2, 6.3 (not joint MGFs)
 4-9 | conditional expectation and independence | [1](lns/lec18_1.pdf) | [lecture 18](https://youtu.be/pvr-rowWXZI)| 6, 6.1 (up to conditional dists)
 ---|---|---|---|---
+4-14 | iterated expectaiton and bivariate transformations | [1](lns/lec19_1.pdf) | [lecture 19](https://youtu.be/yMB2IuOm_JI)| 3.4 (condtional expectation), 7.2 (bivariate transformation)
+4-16 | more bivariate transformations | [1](lns/lec20_1.pdf) | [lecture 20](https://youtu.be/FAtB0bS_a9k)| 7.2 (bivariate transformation)
+---|---|---|---|---
 
 ## problem sets
 
@@ -53,7 +56,8 @@ date | name | due | reading| assignment |
 3-5 | PS 6 | 3-19 |   Leemis 3.4 |  [Leemis ch3: 54, 67, 71, 74, 78, 81, 105, 117, 133, 135](scans/ps6.pdf) | 
 3-26 | PS 7 | 4-2 |  Leemis 4.1-4.3,4.5, 5.1-5.4 | [Leemis ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69](scans/ps7.pdf) |
 4-2 | PS 8 | 4-9 |  Leemis 7,7.1,7.2 (univariate case only), Leemis 6,6.1 (up to conditional dists)   | [Leemis ch 7: 2,9,13,21,40 Leemis ch 6: 4, 5, 22, 24, 32](scans/ps8.pdf) (other suggested/ungraded problems: ch 7: 55,57,58,60,63, ch6: 35) | 
-4-9 | PS 9 | 4-16 |  Leemis 6.1, 6.2, 6.3 (not joint MGFs)   | [Leemis ch 6: 74, 78, 82, 17a, 20, 36, 37, 47, 48, 50, 54, 70](scans/ps9.pdf)| 
+4-9 | PS 9 | 4-16 |  Leemis 6.1, 6.2, 6.3 (not joint MGFs)   | [Leemis ch 6: 74, 78, 82, 17a, 20, 36, 37, 47, 48, 50, 54, 70](scans/ps9.pdf)|
+4-16 | PS 10 | 4-23 |  Leemis 6.3, 6.4, 7.1, 7.2 | [Leemis ch6: 60, 88, 95, Leemis ch7: 19, 22, 23, 28(a), 38, 49, ](scans/ps10.pdf)|
 
 ## exams
 
