@@ -44,6 +44,11 @@ date | lecture name | notes | [Dr. Hunt's Lecture Playlist](https://www.youtube.
 4-21 | multivariate random variables | [1](lns/lec21_1.pdf) | [lecture 21](https://youtu.be/OMDlAY4xfw0) | 6.5 
 4-23 | random samples and order statistics | [1](lns/lec22_1.pdf) | [lecture 22](https://youtu.be/Uj0uaokrmgE) | 7.2 (order stats)
 ---|---|---|---|---
+4-21 | inequalities and convergence | [1](lns/lec23_1.pdf) | [lecture 23](https://youtu.be/G-d3aif_EjI) | 
+4-23 | central limit theorem | [1](lns/lec24_1.pdf) | [lecture 24](https://youtu.be/I6Ngn4drDWo) | 
+---|---|---|---|---
+
+
 
 ## problem sets
 
